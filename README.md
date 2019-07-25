@@ -552,6 +552,7 @@ search_injector-master/
 │      └ manifest.json
 └ README.md
 ```
+> The github repository is [here](https://github.com/stwicher/search_injector)
 
 [Go to the top](#sections)
 
