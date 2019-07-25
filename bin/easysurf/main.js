@@ -1,6 +1,7 @@
 /*
 
     Author: stwicher ( https://github.com/stwicher )
+    Repository: https://github.com/stwicher/search_injector
     Version: 1.1 2019-07-04
 
     This Extension adds a custom search result on google and bing results pages
